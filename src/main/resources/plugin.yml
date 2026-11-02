@@ -1,0 +1,6 @@
+name: TetraozHealth
+version: '${version}'
+
+main: org.github.officialbiscuit.tetraozHealth.TetraozHealth
+api-version: '26.3'
+load: POSTWORLD
